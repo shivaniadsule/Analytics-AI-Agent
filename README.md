@@ -39,13 +39,13 @@ Formatted Response (Human-readable)
 **AI/LLM Integration**  
 - **Groq Cloud API**: High-performance LLM inference platform
 - **Model**: Llama 3.3 70B Versatile - Advanced language model for query understanding and SQL generation
-- **Free Tier**: 14,400 requests/day, suitable for demo and small-scale applications
+
 
 **Supporting Libraries**  
 - **requests**: HTTP client for API communication
 - **python-dotenv**: Environment variable management for secure API key storage
 
 **Deployment**  
-- **Platform**: Render (free tier)
+- **Platform**: Render 
 - **Version Control**: Git/GitHub
 - **CI/CD**: Automatic deployment on code push
